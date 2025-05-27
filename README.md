@@ -3,6 +3,8 @@
 Todo list app project using react hooks
 
 Functionalities:
-Add Todo by clicking add button
-Add Todo by pressing Enter key
-Delete Todo
+<ul>
+  <li>Write Todo in placeholder</li>
+  <li>Add Todo by pressing Enter key</li>
+  <li>Delete Todoy</li>
+</ul>
