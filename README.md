@@ -6,5 +6,6 @@ Functionalities:
 <ul>
   <li>Write Todo in placeholder</li>
   <li>Add Todo by pressing Enter key</li>
-  <li>Delete Todoy</li>
+  <li>Delete Todo</li>
+  <li>If todo was over then Mark it as Done</li>
 </ul>
